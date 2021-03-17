@@ -1,0 +1,1 @@
+This is a stripped down version of the Arduino Due full version of the DDS generator to allow it to work in the Tinkercad Arduino simulator, which only supports Uno so anything to do with Due has been removed and print statements have been added to show what is happening.
